@@ -46,3 +46,10 @@ replay_pid*
 # Misc
 # =========================
 notes.txt
+
+# =========================
+# Terraform
+# =========================
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.*
